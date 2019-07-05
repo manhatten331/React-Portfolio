@@ -1,0 +1,22 @@
+.Header{
+    /* background-image: url("https://wallpaperbro.com/img/14793.jpg"); */
+    background-image: url("../../images/Pro Headshot.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 960px;
+}
+
+.Content {
+    display: flex;
+    background-color: tan;
+    color: cornsilk;
+    width: 100%;
+    height: 150px;
+
+}
+
+div + h1 {
+    text-align: center;
+}
